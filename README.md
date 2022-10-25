@@ -10,7 +10,7 @@
 모델링을 위한 데이터 전처리 과정
 -  <strong>전처리 전과정 수행 | <a href="https://github.com/riverallzero/Wheat_unbong/blob/main/1_Clean%20Data/preprocess_all.py">preprocess_all.py</a></strong> 
     * <a href="https://github.com/riverallzero/Wheat_unbong/blob/main/1_Clean%20Data/preprocess_unbong.py">preprocess_unbong.py</a>
-  : 받아온 생육조사데이터 엑셀파일을 csv 형식으로 변환
+  : 받아온 생육조사데이터 엑셀파일을 데이터프레임의 csv 형식으로 변환
     * <a href="https://github.com/riverallzero/Wheat_unbong/blob/main/1_Clean%20Data/preprocess_seed.py">preprocess_seed.py</a>
   : 개화기(4.28~5.3)부터 5.31까지 종자의 건물중, 생체중, 수분함량
     * <a href="https://github.com/riverallzero/Wheat_unbong/blob/main/1_Clean%20Data/preprocess_timedata.py">preprocess_timedata.py</a>
