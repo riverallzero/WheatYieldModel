@@ -30,6 +30,7 @@ XGBoost, Linear Regression, RandomForest를 이용한 모델링
 <img src="https://user-images.githubusercontent.com/93754504/197717934-ddaea639-e146-496e-bdfa-e8e0154806a1.png" width="300px">
 
 ### 3_EDA
+- 2022-05-03, 2022-05-17, 2022-05-31단위로 데이터의 분포 stripplot
 <img src="https://user-images.githubusercontent.com/93754504/197717026-f49e0d78-7a3e-493c-9cf0-85c9b94695ca.png" width="700px">
 
 ## 결론
